@@ -4,19 +4,22 @@
   <img alt="KBoudich's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-## Hi there 👋
+## Solution Architect & System Designer
 
-<!--
-**KBoudich/KBoudich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical systems that help teams reason clearly, run reliably, and turn complex work into confident decisions.
 
-Here are some ideas to get you started:
+For more than 20 years, I have worked across cloud architecture and full-stack development with technologies including React, TypeScript, Node.js, .NET, and C#. I share hands-on lessons from building systems, mentoring engineers, and guiding teams through articles designed to help others solve real problems and grow in their careers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+- **Archmesh** — A trust layer for multi-agent architecture reviews, built around structured debate, explicit permissions, and bounded spend.
+- **EazyFact** — An invoicing SaaS that simplifies creating, managing, and following up invoices for growing businesses.
+- **Artineo** — A transportation management system for real-time logistics coordination and secure multi-tenant workflows.
+- **DiagramR** — A faster way to turn technical thinking into clear architecture diagrams.
+- **Ezzo** — An AI-native ERP in development for more fluent, connected, and actionable business operations.
+
+### Writing
+
+I write about cloud architecture, clean code, AI systems, and the engineering decisions behind reliable software.
+
+[Read my articles](https://karim-boudich.com/posts/) · [Visit my website](https://karim-boudich.com/)
